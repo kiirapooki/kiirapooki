@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiirapooki
 - 👀 I’m interested in security and hacking staff
 - 🌱 I’m currently learning some bug bounty things and coding
-- 💞️ I’m looking to collaborate to absolutely nobody for now :)
+- 💞️ I’m looking to collaborate on some security related staff for now :)
 - 📫 Reach me @kiirapooki on twiiter
 
 <!---
